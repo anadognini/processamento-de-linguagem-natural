@@ -40,3 +40,9 @@ Esse projeto tem fins 100% educacionais e voltados para o aprendizado.
      - Busca de músicas similares por consulta textual;
      - Busca de músicas similares a uma música específica;
      - Visualização de similaridades com heatmap e PCA.
+- Parte 4: [`trabalho_parte_4.ipynb`](https://colab.research.google.com/drive/1YwDTObziyMIa-Ss36OEixf2uFA3QjVqK?usp=sharing)
+    - a
+- Parte 5: [`trabalho_parte_5.ipynb`](https://colab.research.google.com/drive/1wLVAJnq_wjeQsuJjZmNHPs2KGmVdg_A-?usp=sharing)
+    - a
+- Parte 6: [`trabalho_parte_6.ipynb`]()
+    - a
