@@ -31,3 +31,12 @@ Esse projeto tem fins 100% educacionais e voltados para o aprendizado.
     - Vetorização com Bag of Words e TF-IDF;
     - Busca por similaridade por tema e por música;
     - Visualizações com heatmap e PCA.
+ - Parte 3: [`trabalho_parte_3.ipynb`](https://colab.research.google.com/drive/1hEyU_ZOznnrKBU1QNXfpk1lcm9K8rqBl?usp=sharing)
+     - Carregamento do dataset de letras limpas;
+     - Preparação dos documentos tokenizados;
+     - Treinarmento de um modelo Word2Vec;
+     - Geração de vetores de documentos pela média dos vetores das palavras;
+     - Cálculo de similaridade por cosseno entre músicas;
+     - Busca de músicas similares por consulta textual;
+     - Busca de músicas similares a uma música específica;
+     - Visualização de similaridades com heatmap e PCA.
